@@ -25,6 +25,7 @@ import org.apache.dubbo.config.bootstrap.DubboBootstrap;
 import org.apache.dubbo.demo.DemoService;
 
 import java.util.concurrent.CountDownLatch;
+   
 
 public class Application {
     public static void main(String[] args) throws Exception {
