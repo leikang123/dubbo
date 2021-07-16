@@ -25,7 +25,7 @@ import org.apache.dubbo.config.bootstrap.DubboBootstrap;
 import org.apache.dubbo.config.utils.ReferenceConfigCache;
 import org.apache.dubbo.demo.DemoService;
 import org.apache.dubbo.rpc.service.GenericService;
-
+// 消费者类
 public class Application {
     public static void main(String[] args) {
         if (isClassic(args)) {
